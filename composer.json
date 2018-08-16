@@ -1,5 +1,5 @@
 {
-    "name": "aliyuncs/opensearch",
+    "name": "yifei/opensearch",
     "description": "Aliyun OSS SDK for PHP",
     "homepage": "https://www.aliyun.com/product/opensearch",
     "type": "library",
